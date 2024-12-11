@@ -21,8 +21,8 @@ Before running the project, make sure you have the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/samson-shukla/google-gemini-ai.git
-   cd google-gemini-ai
+   git clone https://github.com/deymahe/new-gem.git
+   cd new-gem
    ```
 
 2. **Install Dependencies:**
@@ -78,6 +78,6 @@ Request body example of `"text_and_image"` model
 
 To implement the views, you can integrate any frontend library of your choice, such as ReactJs, Swelte, etc.
 
-Feel free to enhance and customize the project to meet your specific needs. If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/samson-shukla/google-gemini-ai/issues).
+Feel free to enhance and customize the project to meet your specific needs. If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/deymahe/new-gem.git/issues).
 
 Happy coding! 🚀
