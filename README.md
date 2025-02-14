@@ -83,20 +83,3 @@ Feel free to enhance and customize the project to meet your specific needs. If y
 Happy coding! 🚀
 
 
-
-Subject: Request for Work from Home Due to Shoulder Injury
-
-Dear Sudip,
-
-I wanted to inform you that I met with an accident recently and have injured my shoulder. As advised by the doctor, I need to rest and avoid any physical strain for the next two weeks to ensure proper recovery.
-
-Due to this, I will not be able to come to the office during this period. However, I am capable of continuing my work from home and will ensure that my tasks are managed without any disruption.
-
-Please let me know if you need any further details or medical documents. I appreciate your understanding and support.
-
-Thank you.
-
-Best regards,
-Mahesh
-
-
